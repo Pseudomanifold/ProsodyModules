@@ -1,7 +1,7 @@
 # Prosody modules
 
 This repository contains some modules for the [Prosody XMPP server](http://prosody.im). If not
-mentioned otherwise, please do *not* assume that a module ready for productive use.
+mentioned otherwise, please do *not* assume that a module is ready for productive use.
 
 ## Installing the modules
 
